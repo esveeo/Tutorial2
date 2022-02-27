@@ -1,0 +1,57 @@
+<html>
+<head>
+<title>Thierry's Personal Website</title>
+</head>
+<body>
+
+
+	<img src="IMG_5809.jpg">
+	
+
+<p><h2>Biography</h2></p>
+
+	
+	<p>My name is Thierry Florvilus and I’m in the Digital Media major with a focus in game design. I’m currently pursuing various creative influences like writing books, digital art, animation, and video creation. A career I am considering is becoming a videogame designer. I haven’t won any major awards or made any huge projects like games but I am in the process of editing and revising my first novel and look to have it published in the near future. With my degree, I plan on trying to work my way into a job at big companies like EA, Ubisoft, or 2k. I also would like to get into film production or animation so I can bring my stories to life and get them out into the world for millions to enjoy.
+</p>
+
+
+<p><h2>Creative influences</h2></p>
+
+	
+	<ahref="https://https://www.instagram.com/whytmanga/?hl=en">Whyt Manga</a>	
+	
+	<p>One of my creative influences is Whyt Manga, a digital artist who’s tutorials taught me the basics of how to draw in the anime/manga style. Whyt Manga helped me take major strides in my art and I really respect him and his style which is why I want to try and emulate him.</p>
+
+
+	<ahref="https://https://www.instagram.com/kuzomari/?hl=en">Kuzomari</a>
+
+	<p>Another one of my creative influences is another digital artist by the name of Kuzomari. Kuzomari’s art style caught my eye while I was still learning the basics of drawing in the anime/manga style. I think his style is super cool and that’s why I want to emulate him.</p>
+
+
+	<ahref="https://https://www.instagram.com/samdoesarts/?hl=en">Samdoesarts</a>
+
+	<p>The last one of my creative influences is another digital artist by the name of Samdoesarts. Sam’s art style caught my eye while I was still learning the basics of drawing in the anime/manga style. I think his style is super cool and that’s why I want to emulate him.</p>
+
+
+
+<p><h2>Digital Projects</h2></p>
+
+	<img src=""alt=""width=""height="">
+
+
+
+	<p>This is where my future works will be posted.</p>
+</body>	
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
